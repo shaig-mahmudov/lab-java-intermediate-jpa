@@ -1,4 +1,4 @@
-package com.ironhack.labjavaintermediatejpa.entity;
+package com.ironhack.labjavaintermediatejpa.entity.task;
 
 import jakarta.persistence.*;
 

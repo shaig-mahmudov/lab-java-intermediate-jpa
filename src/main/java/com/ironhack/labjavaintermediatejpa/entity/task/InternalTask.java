@@ -1,6 +1,5 @@
-package com.ironhack.labjavaintermediatejpa.entity;
+package com.ironhack.labjavaintermediatejpa.entity.task;
 
-import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.PrimaryKeyJoinColumn;
 import jakarta.persistence.Table;

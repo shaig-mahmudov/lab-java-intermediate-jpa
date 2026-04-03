@@ -1,4 +1,4 @@
-package com.ironhack.labjavaintermediatejpa.entity;
+package com.ironhack.labjavaintermediatejpa.entity.name;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

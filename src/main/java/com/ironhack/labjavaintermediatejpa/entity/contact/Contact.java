@@ -1,5 +1,6 @@
-package com.ironhack.labjavaintermediatejpa.entity;
+package com.ironhack.labjavaintermediatejpa.entity.contact;
 
+import com.ironhack.labjavaintermediatejpa.entity.name.Name;
 import jakarta.persistence.*;
 
 @Entity
